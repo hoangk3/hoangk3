@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/9Y3uH2T.png" alt="Anime Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/14/3b/09/143b098e2fb6c852a0ab7b7b477e48a4.gif" alt="Anime Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi, I'm Hoàng Phan 👋</h1>
