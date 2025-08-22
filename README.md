@@ -59,5 +59,5 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/fxRzQ7L.gif" alt="Anime C++ GIF" width="300"/>
+  <img src="https://i.pinimg.com/originals/8b/40/05/8b40053ff48fdfbbc5d08f808d758239.gif" alt="Anime C++ GIF" width="300"/>
 </div>
